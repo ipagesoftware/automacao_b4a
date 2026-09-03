@@ -488,6 +488,50 @@ quando forem executados com privilégios administrativos.
 
 ------------------------------------------------------------------------
 
+## ⚠️ Nota de Isenção de Responsabilidade
+
+### INSTALADOR DO AMBIENTE B4A - JAVA E ANDROID
+
+Este software, script de instalação e seus respectivos
+arquivos foram desenvolvidos para facilitar a configuração
+do ambiente necessário à utilização do B4A, Java, Android
+e ferramentas relacionadas.
+
+### ACEITE E RESPONSABILIDADE DO USUÁRIO
+
+Ao executar este instalador, o usuário declara estar ciente
+de que o programa poderá realizar alterações no sistema
+operacional Windows, criar, modificar ou remover arquivos e
+diretórios, instalar componentes e executar processos com
+privilégios administrativos.
+
+A utilização deste instalador é realizada por conta e risco
+do usuário.
+
+O usuário é responsável por verificar previamente se possui
+permissão para instalar, modificar ou remover os componentes
+em seu computador.
+
+------------------------------------------------------------------------
+
+## ▶️ Configuração do B4A
+
+Abra o B4A e na opção do menu “Tools” (Ferramentas em português), encontre a opção do menu nomeada de “Configure Paths”.
+
+![Tela_settings1](images/8.png)
+
+## Configure conforme imagem abaixo:
+
+![Tela_settings2](images/9.png)
+
+Em “javac.exe” digite: C:\Java\jdk-19.0.2\bin\javac.exe
+E em android.jar digite: C:\Android\platforms\android-36\android.jar
+
+
+Se você chegou até aqui, meus muitos parabéns!
+Agora é só programar!
+
+
 ## 🖼️ Imagens
 ![Tela inicial do instalador](images/1.png)
 
