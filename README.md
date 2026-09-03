@@ -10,8 +10,6 @@ a necessidade de executar manualmente diversos instaladores, comandos e
 configurações.
 
 ------------------------------------------------------------------------
-# Imagens
-![Tela inicial do instalador](images/1.png)
 
 ## 📌 Visão geral
 
@@ -487,3 +485,20 @@ utilizado com atenção.
 
 Sempre leia e compreenda os scripts antes de executá-los, principalmente
 quando forem executados com privilégios administrativos.
+
+------------------------------------------------------------------------
+
+## 🖼️ Imagens
+![Tela inicial do instalador](images/1.png)
+
+![Tela openjdk](images/2.png)
+
+![Tela android](images/3.png)
+
+![Tela command_line](images/4.png)
+
+![Tela java_android](images/5.png)
+
+![Tela 4ba](images/6.png)
+
+![Tela erro](images/7.png)
