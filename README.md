@@ -10,6 +10,8 @@ a necessidade de executar manualmente diversos instaladores, comandos e
 configurações.
 
 ------------------------------------------------------------------------
+# Imagens
+![Tela inicial do instalador](images/1.png)
 
 ## 📌 Visão geral
 
